@@ -1,0 +1,10 @@
+<!-- Nutrition Page -->
+<!DOCTYPE html>
+<html>
+<head><title>Nutrition</title></head>
+<body>
+    <h2>Nutrition Guide</h2>
+    <p>Learn about balanced diets, meal prepping, and the best foods for muscle growth and weight loss.</p>
+    <img src="nutrition.jpg" alt="Healthy Food">
+</body>
+</html>
