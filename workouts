@@ -1,0 +1,10 @@
+<!-- Workouts Page -->
+<!DOCTYPE html>
+<html>
+<head><title>Workouts</title></head>
+<body>
+    <h2>Workout Plans</h2>
+    <p>Explore personalized workouts for all fitness levels, from beginner to advanced.</p>
+    <img src="workouts.jpg" alt="Workout Sessions">
+</body>
+</html>
